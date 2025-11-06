@@ -77,6 +77,10 @@ p {
   opacity: 0.8;
 }
 
+.text-container p {
+  text-align: justify;
+}
+
 h1, h2, h3 {
   color: var(--light-text);
 }
