@@ -33,18 +33,16 @@ With 6+ years of experience in transportation planning, geospatial analytics, an
 
 ## Featured Projects
 
-| Project | Description | Demo |
-|---------|-------------|------|
-| **LEGO Map of Africa** | Created a block-style map using QGIS, transforming geographic data into a visually playful format. | [Live](#) |
-| **Exploring Map Projections** | Built Adams, Bonne, and Cassini projections in ArcGIS Pro to showcase cartographic diversity. | [Live](#) |
-| **Perseverance’s Journey on Mars** | Plotted key points of the NASA Perseverance mission, including landing ellipse and sample-site progress. | [Live](#) |
-| **Two-Color Map of Marseille** | Rendered a minimalist map of Marseille’s highways using OpenStreetMap data. | [Live](#) |
-| **Space and Time (Ethiopia PM2.5)** | Visualized pollution trends using ArcGIS Pro’s space-time cube, highlighting evolving hotspots. | [Live](#) |
-| **Global Ocean Surface Currents** | Mapped worldwide currents using Esri climatology data and buoy-tracked datasets. | [Live](#) |
-| **Blue Whale Migration** | Visualized 2000–2008 migration paths via Movebank data in ArcGIS Pro. | [Live](#) |
-| **Micromapping Angkor Wat** | Built a detailed 3D map using OSM 3D buildings in ArcGIS Pro. | [Live](#) |
-| **Arakkonam DEM Enhancement** | Resampled Copernicus 30m DEM to 10m for terrain analysis in Tamil Nadu. | [Live](#) |
-| **Tamil Nadu River Basins** | Created a 2D Blender map highlighting river networks and terrain relationships. | [Live](#) |
+- **LEGO Map of Africa** – Created a block-style map using QGIS, transforming geographic data into a visually playful format.  
+- **Exploring Map Projections** – Built Adams, Bonne, and Cassini projections in ArcGIS Pro to showcase cartographic diversity.  
+- **Perseverance’s Journey on Mars** – Plotted key points of the NASA Perseverance mission, including landing ellipse and sample-site progress.  
+- **Two-Color Map of Marseille** – Rendered a minimalist map of Marseille’s highways using OpenStreetMap data.  
+- **Space and Time (Ethiopia PM2.5)** – Visualized pollution trends using ArcGIS Pro’s space-time cube, highlighting evolving hotspots.  
+- **Global Ocean Surface Currents** – Mapped worldwide currents using Esri climatology data and buoy-tracked datasets.  
+- **Blue Whale Migration** – Visualized 2000–2008 migration paths via Movebank data in ArcGIS Pro.  
+- **Micromapping Angkor Wat** – Built a detailed 3D map using OSM 3D buildings in ArcGIS Pro.  
+- **Arakkonam DEM Enhancement** – Resampled Copernicus 30m DEM to 10m for terrain analysis in Tamil Nadu.  
+- **Tamil Nadu River Basins** – Created a 2D Blender map highlighting river networks and terrain relationships.  
 
 ---
 
@@ -59,4 +57,3 @@ I’m open to interesting projects or collaborations:
 
 ## Fun Fact
 I enjoy combining spatial data and storytelling, whether it’s mapping whale migrations, visualizing air pollution trends, or designing interactive geospatial tools.
-
